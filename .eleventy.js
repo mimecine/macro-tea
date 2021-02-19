@@ -1,7 +1,7 @@
 module.exports = (config) => {
   config.addPassthroughCopy({ 
     'public': './',
-    'CNAME':'./'
+    'CNAME':'./CNAME'
   })
   config.setBrowserSyncConfig({
     files: ['dist/**/*'],
