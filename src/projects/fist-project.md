@@ -14,3 +14,4 @@ images:
   caption: Paris 3
 
 ---
+![](/uploads/paris-2-p1000549resized2.jpg)
