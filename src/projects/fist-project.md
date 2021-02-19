@@ -10,5 +10,7 @@ images:
   caption: Paris 1
 - image: "/uploads/paris-1-p1000028resizeonblack.jpg"
   caption: Paris 2
+- image: "/uploads/paris-2-p1000549resized2.jpg"
+  caption: Paris 3
 
 ---
