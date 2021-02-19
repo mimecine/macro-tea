@@ -4,7 +4,7 @@ tags:
 - " two"
 title: Fist Project
 body: "<p>This is the body text</p>"
-credits: "<p><strong>No creds:<br></strong>This is the credits</p>"
+credits: "<p><strong>No creds:<br></strong>This is the creditssss.</p>"
 images:
 - image: "/uploads/paris-0-p1000027resized1.jpg"
   caption: Paris 1
