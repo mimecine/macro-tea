@@ -1,5 +1,8 @@
 module.exports = (config) => {
-  config.addPassthroughCopy({ 'public': './' })
+  config.addPassthroughCopy({ 
+    'public': './',
+    'CNAME':'./'
+  })
   config.setBrowserSyncConfig({
     files: ['dist/**/*'],
     open: true,
